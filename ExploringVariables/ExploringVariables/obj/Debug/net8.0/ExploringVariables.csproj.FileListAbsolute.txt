@@ -1,0 +1,14 @@
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\bin\Debug\net8.0\ExploringVariables.exe
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\bin\Debug\net8.0\ExploringVariables.deps.json
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\bin\Debug\net8.0\ExploringVariables.runtimeconfig.json
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\bin\Debug\net8.0\ExploringVariables.dll
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\bin\Debug\net8.0\ExploringVariables.pdb
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.dll
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\refint\ExploringVariables.dll
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.pdb
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ExploringVariables.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\ExploringVariables\ExploringVariables\obj\Debug\net8.0\ref\ExploringVariables.dll
